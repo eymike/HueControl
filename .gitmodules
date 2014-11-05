@@ -1,0 +1,3 @@
+[submodule "third-party/Q42.HueApi"]
+	path = third-party/Q42.HueApi
+	url = git@github.com:eymike/Q42.HueApi.git
